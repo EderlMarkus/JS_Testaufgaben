@@ -1,0 +1,12 @@
+﻿/**
+ * --------------------
+ * --------------------
+ * -----Fizz Buzz------
+ * --------------------
+ * --------------------
+ * Schreibe ein Programm, welches die Zahlen 1 - 100 ausgibt, 
+ * aber jedesmal, wenn eine Zahl durch 3 teilbar ist soll "Fizz" 
+ * ausgegeben werden, jedesmal wenn eine Zahl durch 5 teilbar ist, 
+ * soll "Buzz" ausgegeben werden. Wenn eine Zahl durch 3 und 5 teilbar ist, 
+ * soll "FizzBuzz" ausgegeben werden (also zB 1,2,Fizz,4,Buzz,Fizz,7,8,Fizz,Buzz,11,...);
+*/
